@@ -23,7 +23,7 @@ Usage
 
 The script can be run from the command line using the following syntax:
 
-    python quick_halpha_solar_colorizing.py -i <input_file_or_directory>
+    python process_sol.py -i <input_file_or_directory>
 
 The available options are:
 
@@ -34,11 +34,11 @@ Examples
 
 Enhancing a single image:
 
-    python quick_halpha_solar_colorizing.py -i input_image.jpg
+    python process_sol.py -i input_image.jpg
 
 Enhancing images in a directory:
 
-    python quick_halpha_solar_colorizing.py -i input_directory
+    python process_sol.py -i input_directory
 
 ## Authors
 * **Nazmus Nasir** - [Nazmus](https://nazm.us) of [https://www.naztronomy.com](Naztronomy.com)
